@@ -12,7 +12,7 @@ For this assignment, you'll create some initial plans for your project.
 
 * <a href="https://github.com/shelbypeasley/liftoff-assignments/blob/master/P3-Project_Planning/IMG_3802.JPG">Log In Page</a>
 * <a href="https://github.com/shelbypeasley/liftoff-assignments/blob/master/P3-Project_Planning/IMG_3803.JPG">Coffees Page</a>
-* <a href="https://github.com/shelbypeasley/liftoff-assignments/blob/master/P3-Project_Planning/IMG_3803.JPG">Detailed Coffee Page</a>
+* <a href="https://github.com/shelbypeasley/liftoff-assignments/blob/master/P3-Project_Planning/IMG_3804.JPG">Detailed Coffee Page</a>
 
 ### Project Tracker
 
